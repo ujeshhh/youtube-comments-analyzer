@@ -1,0 +1,10 @@
+transformers 
+gradio 
+pandas 
+google-api-python-client 
+wordcloud 
+matplotlib 
+plotly
+torch
+tensorflow
+tf-keras
